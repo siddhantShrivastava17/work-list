@@ -1,1 +1,1 @@
-console.log("testi as");
+console.log("testi as new");
